@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: billing-worker-5944
+  namespace: MendPerformance
+  annotations:
+    github.com/project-slug: MendPerformance/billing-worker-5944
+spec:
+  type: service
+  lifecycle: unknown
+  owner: mend.io
